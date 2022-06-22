@@ -176,6 +176,8 @@ flowchart LR
 - [VNote](https://vnotex.github.io/vnote/zh_cn/)
 - [Joplin](https://joplinapp.org/)
 - [CSDN editor](https://mp.csdn.net/mp_blog/creation/editor)
+- [Zettlr](https://github.com/Zettlr/Zettlr)
+- [Obsidian](https://obsidian.md/download)
 
 [1]: http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference
 [2]: https://mermaid-js.github.io/mermaid/#/gantt
